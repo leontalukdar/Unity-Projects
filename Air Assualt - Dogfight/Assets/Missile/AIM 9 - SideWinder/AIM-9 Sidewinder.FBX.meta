@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 11d8a90796c1d0d4ab5965e381371d52
+timeCreated: 1447419571
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Box01
+    100006: Box02
+    100008: Cylinder01
+    100010: Line01
+    100012: Sphere01
+    100014: Sphere02
+    100016: Sphere03
+    100018: Sphere04
+    100020: Wing
+    100022: wing
+    100024: Wing01
+    100026: wing01
+    100028: Wing02
+    100030: wing02
+    100032: Wing03
+    100034: wing03
+    100036: wingBack
+    100038: wingBack02
+    100040: wingBack03
+    100042: wingBack04
+    400000: //RootNode
+    400002: body
+    400004: Box01
+    400006: Box02
+    400008: Cylinder01
+    400010: Line01
+    400012: Sphere01
+    400014: Sphere02
+    400016: Sphere03
+    400018: Sphere04
+    400020: Wing
+    400022: wing
+    400024: Wing01
+    400026: wing01
+    400028: Wing02
+    400030: wing02
+    400032: Wing03
+    400034: wing03
+    400036: wingBack
+    400038: wingBack02
+    400040: wingBack03
+    400042: wingBack04
+    2300000: body
+    2300002: Box01
+    2300004: Box02
+    2300006: Cylinder01
+    2300008: Sphere01
+    2300010: Sphere02
+    2300012: Sphere03
+    2300014: Sphere04
+    2300016: wing
+    2300018: wing01
+    2300020: wing02
+    2300022: wing03
+    2300024: wingBack
+    2300026: wingBack02
+    2300028: wingBack03
+    2300030: wingBack04
+    3300000: body
+    3300002: Box01
+    3300004: Box02
+    3300006: Cylinder01
+    3300008: Sphere01
+    3300010: Sphere02
+    3300012: Sphere03
+    3300014: Sphere04
+    3300016: wing
+    3300018: wing01
+    3300020: wing02
+    3300022: wing03
+    3300024: wingBack
+    3300026: wingBack02
+    3300028: wingBack03
+    3300030: wingBack04
+    4300000: body
+    4300002: Cylinder01
+    4300004: wingBack
+    4300006: wingBack02
+    4300008: wingBack03
+    4300010: wingBack04
+    4300012: Box01
+    4300014: Box02
+    4300016: wing
+    4300018: Sphere01
+    4300020: wing01
+    4300022: Sphere02
+    4300024: wing02
+    4300026: Sphere03
+    4300028: wing03
+    4300030: Sphere04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
